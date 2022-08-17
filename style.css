@@ -46,4 +46,5 @@ button:hover{
     top: 170px;
     padding: 13px;
     transform: translateX(-50%);
+    min-width: 306px;
 }
